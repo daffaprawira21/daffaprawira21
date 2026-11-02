@@ -1,31 +1,96 @@
-<h1 align="center">Hi 👋, I'm Ananda Daffa Prawira</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# Hi there, I'm Ananda Daffa Prawira! 👋
 
-- 🌱 I’m currently learning **Dicoding Front-end and Back-end Course**
-
-- 👨‍💻 All of my projects are available at [https://github.com/daffaprawira21/](https://github.com/daffaprawira21/)
-
-- 📝 I regularly write articles on [https://daffaprawira21.wixsite.com/ict4labs](https://daffaprawira21.wixsite.com/ict4labs)
-
-- 📫 How to reach me **daffaprawira21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ananda-daffa-prawira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda daffa prawira" height="30" width="40" /></a>
-<a href="https://instagram.com/dap.py_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dap.py_" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0891B2,100:6366F1&height=180&section=header&text=Ananda%20Daffa%20Prawira&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Software&descAlignY=58&descSize=16" width="100%" alt="Animated header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><br>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;Software+Engineering+Enthusiast;Passionate+About+Building+Web+Applications;Always+Exploring+New+Technologies" alt="Typing SVG" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daffaprawira21&" alt="daffaprawira21" /></p>
+<p align="center">
+  <a href="mailto:daffaprawira21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/daffaprawira21">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Development enthusiast from Indonesia with a strong interest in **Full Stack Development** and **Software Engineering**.
+
+- 💻 Interested in building web applications and software solutions.
+- 🚀 Enjoy exploring new technologies and solving problems.
+- 🌱 Currently exploring TypeScript, React, and Node.js.
+- 🧩 Passionate about creating practical, scalable, and user-friendly applications.
+- 🤝 Open to new opportunities and collaborations where I can learn, contribute, and grow as a developer.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode&theme=light" alt="Core technologies" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs&theme=light" alt="Currently exploring technologies" />
+</p>
+
+<p align="center">
+  <i>Continuously learning, experimenting, and building with new technologies.</i>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaprawira21&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=0891B2&text_color=64748b" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaprawira21&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffaprawira21&theme=transparent&hide_border=true&ring=2563EB&fire=0891B2&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daffaprawira21/daffaprawira21/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow developers, discussing ideas, and exploring opportunities to build something meaningful together.
+
+<p align="center">
+  <a href="mailto:daffaprawira21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://daffaprawira21.wixsite.com/ict4labs">
+    <img src="https://img.shields.io/badge/Blog-Visit%20My%20Blog-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit blog" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day. ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0891B2,100:6366F1&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
