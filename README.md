@@ -1,21 +1,21 @@
-# Hi there, I'm Ananda Daffa Prawira! 👋
+# 👋 Hi, I'm Ananda Daffa Prawira!
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0891B2,100:6366F1&height=180&section=header&text=Ananda%20Daffa%20Prawira&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Software&descAlignY=58&descSize=16" width="100%" alt="Animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252536,50:55516B,100:A99BCB&height=180&section=header&text=Ananda%20Daffa%20Prawira&fontSize=36&fontColor=F1EDF7&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Software&descAlignY=58&descSize=16" width="100%" alt="Animated header" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;Software+Engineering+Enthusiast;Passionate+About+Building+Web+Applications;Always+Exploring+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=A99BCB&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;Software+Engineering+Enthusiast;Passionate+About+Building+Web+Applications;Always+Exploring+New+Technologies" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="mailto:daffaprawira21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/daffaprawira21">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-252536?style=for-the-badge&logo=github&logoColor=F1EDF7" alt="GitHub" />
+  </a>
+  <a href="https://daffaprawira21.wixsite.com/ict4labs">
+    <img src="https://img.shields.io/badge/Blog-55516B?style=for-the-badge&logo=googlechrome&logoColor=F1EDF7" alt="Blog" />
   </a>
 </p>
 
@@ -33,22 +33,22 @@ I'm a Software Development enthusiast from Indonesia with a strong interest in *
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Technologies
+
+### Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode&theme=light" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode&theme=dark" alt="Core technologies" />
 </p>
 
----
-
-## 🌱 Currently Exploring
+### Currently Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs&theme=light" alt="Currently exploring technologies" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs&theme=dark" alt="Currently exploring" />
 </p>
 
 <p align="center">
-  <i>Continuously learning, experimenting, and building with new technologies.</i>
+  <i>Always learning, experimenting, and building.</i>
 </p>
 
 ---
@@ -56,12 +56,12 @@ I'm a Software Development enthusiast from Indonesia with a strong interest in *
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaprawira21&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=0891B2&text_color=64748b" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaprawira21&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daffaprawira21&show_icons=true&hide_border=true&bg_color=252536&title_color=A99BCB&icon_color=91A9B8&text_color=F1EDF7&ring_color=A99BCB" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaprawira21&layout=compact&hide_border=true&bg_color=252536&title_color=A99BCB&text_color=F1EDF7" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffaprawira21&theme=transparent&hide_border=true&ring=2563EB&fire=0891B2&currStreakLabel=2563EB" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffaprawira21&hide_border=true&background=252536&ring=A99BCB&fire=B9A6A0&currStreakLabel=A99BCB&sideLabels=91A9B8&currStreakNum=F1EDF7&sideNums=F1EDF7&dates=9B94AA" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -74,23 +74,24 @@ I'm a Software Development enthusiast from Indonesia with a strong interest in *
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow developers, discussing ideas, and exploring opportunities to build something meaningful together.
+I'm always open to connecting with fellow developers, sharing ideas, exploring opportunities, and building meaningful software together.
 
 <p align="center">
-  <a href="mailto:daffaprawira21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <a href="https://github.com/daffaprawira21">
+    <img src="https://img.shields.io/badge/GitHub-252536?style=for-the-badge&logo=github&logoColor=F1EDF7" alt="GitHub" />
   </a>
   <a href="https://daffaprawira21.wixsite.com/ict4labs">
-    <img src="https://img.shields.io/badge/Blog-Visit%20My%20Blog-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit blog" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-55516B?style=for-the-badge&logo=googlechrome&logoColor=F1EDF7" alt="Blog" />
   </a>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Have a great day. ✨</i>
+  <i>Thanks for stopping by. Keep building, keep learning! ✨</i>
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0891B2,100:6366F1&height=100&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:252536,50:55516B,100:A99BCB&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
