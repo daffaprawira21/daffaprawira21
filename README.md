@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ananda Daffa Prawira!
+# Hi there 👋 Thanks for coming!
 
 <!-- Animated Header -->
 <p align="center">
